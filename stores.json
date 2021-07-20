@@ -1,0 +1,280 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.53512379378,
+                    13.82978706012
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "8am - 10pm",
+                "description": "69 ซอย รัซดาภิเษก 37 แขวงวงศ์สว่าง, เขตบางซื่อ, กรุงเทพมหานคร 10800",
+                "name": "MAKESEND Headquarter",
+                "phone": "02 430 0596",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.45932914068,	13.87693250113
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9am - 7pm",
+                "description": "79/53, ตำบลบางรักน้อย, อำเภอเมือง, นนทบุรี 11000",
+                "name": "MAKESEND GO - Muang Nonthaburi (ท่าอิฐ)",
+                "phone": " 065 594 9327",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   100.415234013163,
+                    13.9287232843688
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9am - 7pm",
+                "description": "289/9 หมู่ที่ 2 ถ. กาญจนาภิเษก ตำบล บางบัวทอง อำเภอบางบัวทอง นนทบุรี 11110",
+                "name": "MAKESEND GO - Bang Bua Tong (บางบัวทอง)",
+                "phone": " 085 684 8274",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.446866576475,
+                    13.800119646981
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9am - 5pm",
+                "description": "1/27 (หน้าหมู่บ้านเอเบิ้ลแลนด์) หมู่ 4, ถนน อัจฉริยะประสิทธิ์ ตำบล มหาสวัสดิ์ อำเภอบางกรวย นนทบุรี 11130",
+                "name": "MAKESEND GO - Bang-Kruay (บางกรวย)",
+                "phone": " 097 991 5392",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.406177424182,
+                    13.7355341408373
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9am - 6pm",
+                "description": "588, 1 ถ. กาญจนาภิเษก แขวง บางไผ่ เขตบางแค กรุงเทพมหานคร 10270",
+                "name": "MAKESEND GO - Bang Kae (บางแค)",
+                "phone": "096 214 1329",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.598746217639,
+                    13.6088712822627
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9am - 6pm",
+                "description": "18/277 ห้องดี (D) หมู่ 3, ตำบลปากน้ำ อำเภอเมืองสมุทรปราการ 10270",
+                "name": "MAKESEND GO - Muang Samutprakarn (สมุทรปราการ)",
+                "phone": "088 286 4802",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.666444958045,
+                    13.8527040628725
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9am - 6pm",
+                "description": "ร้อยแปดแดดเดียว, 11 ซอย 10, รามอินทรา, บึงกุ่ม, Bangkok 10230",
+                "name": "MAKESEND GO - คู้บอน27",
+                "phone": "+44 29 6666 6666",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.636900888089,
+                    13.7693242484048
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "8:30am - 5:30pm",
+                "description": "171 ซอย ลาดพร้าว 136 แยก 1 แขวง คลองจั่น เขตบางกะปิ กรุงเทพมหานคร 10230",
+                "name": "MAKESEND GO - บางกะปิ",
+                "phone": " 094 346 5445",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.64231302916,
+                    13.767895818343
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "11:00am-8.00pm",
+                "description": "ห้องเลขที่2s-c8-a1 ชั้น 2 เดอะมอลล์บางกะปิ, ถ. ลาดพร้าว แขวง คลองจั่น เขตบางกะปิ กรุงเทพมหานคร 10240",
+                "name": "MAKESEND GO - สาขาเดอะมอลล์บางกะปิ",
+                "phone": " 02 734 2127",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.302490082477,
+                    13.7775751335529
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "8:30am - 5:30pm",
+                "description": "41, 13/40, ตำบล บางกระทึก อำเภอสามพราน นครปฐม 73210",
+                "name": "MAKESEND GO – ศาลายา",
+                "phone": " 082 616 5556",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.707078383698,
+                    13.8539159081935
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9.00am - 6:00pm",
+                "description": "221/7 หมู่บ้านเดอะวิลเลจ, ถนน ปัญญาอินทรา แขวง บางชัน เขตคลองสามวา กรุงเทพมหานคร 10510",
+                "name": "MAKESEND GO - Panya Intra (ปัญญารามอินทรา)",
+                "phone": " 086 988 6549",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.277985118379,
+                    13.556318678877
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "9.00am - 7.00pm",
+                "description": "1600, อาคารพาณิชย์​ เลขที่, 66 ถนนท่าปรง อ.เมือง, สมุทรสาคร 74000",
+                "name": "MAKESEND GO - Ma ha chai 02 (มหาชัย 2 --- เทศบาล 8)",
+                "phone": "088 914 1749",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.526279083697,
+                    13.7022776897828
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "",
+                "description": "253 ซอยสาธุประดิษฐ์ แยก 16, บางโพงพาง, เขต ยานนาวา กรุงเทพมหานคร 10120",
+                "name": "MAKESEND GO - Sathupradit 58 (ซอยสาธุประดิษฐ์ 58)",
+                "phone": "087 737 8888",
+                "storeid": "13"
+            }
+        },
+           {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.56013661499,
+                    13.7382801841079
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "10.00am - 10.00pm",
+                "description": "Terminal 21 ชั้น 1 โซน โตเกียว ติดกับ H&M, แขวง คลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหนคร 10110",
+                "name": "MAKESEND GO -Terminal21 (เทอมินอล21อโศก)",
+                "phone": " 02 107 3494",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.492283240368,13.6775720531735
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "7.00am - 4.00pm",
+                "description": "223 ซอย สุขสวัสดิ์ 26 แขวง บางปะกอก เขตราษฎร์บูรณะ กรุงเทพมหานคร 10140",
+                "name": "ชิปป์สไมล์ ยูเฮ้าส์แมนชั่น สุขสวัสดิ์ 26",
+                "phone": " 098 295 9445 ",
+                "storeid": "15"
+            }
+        },    
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.637911205427,13.7190044224642
+                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "ms",
+                "hours": "8.00am - 7.00pm",
+                "description": "414 ซ. อ่อนนุช 39 แขวง สวนหลวง แขวงสวนหลวง กรุงเทพมหานคร 10250",
+                "name": "ชิปป์สไมล์ อ่อนนุช 39",
+                "phone": " 063 964 1415",
+                "storeid": "16"
+            }
+        }
+        
+       
+        
+    ]
+}
